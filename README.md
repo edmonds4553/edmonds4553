@@ -3,6 +3,6 @@
 <br/>
 <br/>
 <br/>
-[![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=edmonds4553&layout=compact)](https://github.com/anuraghazra/github-readme-统计）
+[![willianrod 的 wakatime 统计](https://github-readme-stats.vercel.app/api/wakatime ?username=edmonds4553)](https://github.com/anuraghazra/github-readme-stats)
 
 
